@@ -15,3 +15,6 @@ $RECYCLE.BIN/
 .DS_Store
 .Spotlight-V100
 .Trashes
+
+#jshint
+.jshintrc
